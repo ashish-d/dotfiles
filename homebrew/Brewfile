@@ -12,4 +12,4 @@ brew "gh"           # Github CLI
 brew "nvm"          # Node.js version management
 
 # Fonts
-cask "font-iosevka-nerd-font"
+cask "font-fira-code"
